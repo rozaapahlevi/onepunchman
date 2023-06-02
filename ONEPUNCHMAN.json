@@ -1,8 +1,17 @@
 {
-  "title": "ONEPUNCHMAN",
+  "title": "ONE-PUNCH-MAN",
   "description": "\nSinopsis Onepunch-Man:\n\nOnepunch-Man adalah sebuah seri manga dan anime yang diciptakan oleh penulis yang dikenal dengan nama samaran ONE. Cerita ini mengikuti kehidupan Saitama, seorang pahlawan super yang menjadi terlalu kuat sehingga ia bisa mengalahkan musuhnya hanya dengan satu pukulan. Namun, kekuatan dan kemampuannya yang luar biasa itu membuatnya merasa kesepian dan bosan karena tidak ada lagi musuh yang bisa menantangnya.",
   "artist": "Yusuke Murata",
-  "author": "",
+  "author": "ONE Sensei",
   "cover": "https://imgur.com/xlQ1xRm",
-  "chapters": {}
+  "chapters": {
+    "183": {
+      "title": "183",
+      "volume": "28",
+      "last_updated": "1685700667",
+      "groups": {
+        "onepunchman": "https://imgur.com/a/fZJ8D0L"
+      }
+    }
+  }
 }
