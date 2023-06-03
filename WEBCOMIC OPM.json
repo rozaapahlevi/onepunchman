@@ -18,7 +18,7 @@
       "volume": "144",
       "last_updated": "1685756542",
       "groups": {
-        "opm-webcomic": "https://imgur.com/a/KEDTFZr"
+        "opm-webcomic": "/proxy/api/imgur/chapter/KEDTFZr"
       }
     }
   }
