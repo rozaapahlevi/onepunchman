@@ -60,6 +60,34 @@
       "groups": {
         "onepunchman": "/proxy/api/imgur/chapter/NUXJgmZ"
       }
+    },
+    "190": {
+      "title": "190",
+      "volume": "190",
+      "last_updated": "1697852164",
+      "groups": {
+        "onepunchman": [
+          ""
+        ]
+      }
+    },
+    "191": {
+      "title": "191",
+      "volume": "191",
+      "last_updated": "1697852199",
+      "groups": {
+        "onepunchman": [
+          ""
+        ]
+      }
+    },
+    "192": {
+      "title": "Chapter 192 : (Sekarang)",
+      "volume": "192",
+      "last_updated": "1697562000",
+      "groups": {
+        "onepunchman": "/proxy/api/imgur/chapter/rcekFMu"
+      }
     }
   }
 }
