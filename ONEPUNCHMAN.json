@@ -140,6 +140,14 @@
       "groups": {
         "onepunchman": "/proxy/api/imgur/chapter/zgz8SGK"
       }
+    },
+    "200": {
+      "title": "Chapter 200 : (Partner)",
+      "volume": "200",
+      "last_updated": "1708540857",
+      "groups": {
+        "onepunchman": "/proxy/api/imgur/chapter/89aLmYX"
+      }
     }
   }
 }
