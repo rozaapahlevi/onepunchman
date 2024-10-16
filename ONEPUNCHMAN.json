@@ -172,6 +172,14 @@
       "groups": {
         "onepunchman": "/proxy/api/imgur/chapter/ilVNp8R"
       }
+    },
+    "204": {
+      "title": "Chapter 204 : (Spesial)",
+      "volume": "204",
+      "last_updated": "1729116200",
+      "groups": {
+        "onepunchman": "/proxy/api/imgur/chapter/QCggwcI"
+      }
     }
   }
 }
