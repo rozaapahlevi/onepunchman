@@ -18,9 +18,7 @@
       "volume": "26",
       "last_updated": "1751030832",
       "groups": {
-        "": [
-          "https://imgchest.com/p/6eyrman3l4p"
-        ]
+        "": "/proxy/api/imgchest/chapter/6eyrman3l4p"
       }
     },
     "27": {
@@ -28,7 +26,7 @@
       "volume": "27",
       "last_updated": "1753429952",
       "groups": {
-        "": ""
+        "": "/proxy/api/imgchest/chapter/ne7bke6mj75"
       }
     }
   }
