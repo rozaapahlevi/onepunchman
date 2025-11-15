@@ -12,6 +12,17 @@
       "groups": {
         "One-Punch Man FM": "/proxy/api/imgur/chapter/4U04pJA"
       }
+    },
+    "2": {
+      "title": "Saitama vs Gouketsu",
+      "volume": "2",
+      "last_updated": "1763184455",
+      "groups": {
+        "One-Punch Man FM": [
+          "https://drive.google.com/uc?export=view&id=1tCp_tf4UloW3LCAP_VLogFkFu9T1zAPn",
+          "https://drive.google.com/uc?export=view&id=1tCp_tf4UloW3LCAP_VLogFkFu9T1zAPn"
+        ]
+      }
     }
   }
 }
